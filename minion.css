@@ -1,0 +1,57 @@
+body{
+    margin: 0 0;
+}
+
+main{
+    margin-left: 3rem;
+}
+
+
+nav{
+  background-color: #f2c94c;
+  padding:2rem;
+  align-content: center;
+
+  text-align: center;
+}
+
+
+
+textarea{
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: 1rem 0;
+    padding: 2rem;
+  
+
+    
+}
+
+#output{
+    border: 1px solid black;
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: 1rem 0;
+    padding: 2rem;
+    
+}
+
+button{
+    background-color: #f2c94c;
+    padding: 2rem 4rem;
+    display: block;
+    font-size: larger;
+    align-self: center;
+    
+}
+
+footer{
+    background-color: #f2c94c;
+    padding:2rem;
+    align-content: center;
+
+    text-align: center;
+  }
+  
