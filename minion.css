@@ -44,7 +44,7 @@ button{
     display: block;
     font-size: larger;
     align-self: center;
-    pointer: cursor;    
+    cursor :pointer:;    
 }
 
 footer{
